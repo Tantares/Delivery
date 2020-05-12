@@ -12,4 +12,8 @@ The folder "Delivery" should sit alongside the "Squad" folder.
 
 Contents
 ----------------
-- Cygnus spacecraft.
+- Cygnus spacecraft (KIS compatible).
+
+License
+----------------
+MIT license
