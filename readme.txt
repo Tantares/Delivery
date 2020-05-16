@@ -1,8 +1,8 @@
 Special Delivery
 ----------------
 
-Version 0.1
-Small parts mod for cargo spacecraft.
+Version 0.2
+Endcaps and small fixes.
 
 
 Install
