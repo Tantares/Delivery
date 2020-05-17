@@ -1,8 +1,8 @@
 Special Delivery
 ----------------
 
-Version 0.2
-Endcaps and small fixes.
+Version 1.0
+Solar panels, release balancing.
 
 
 Install
