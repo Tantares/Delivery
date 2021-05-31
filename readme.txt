@@ -1,8 +1,8 @@
 Special Delivery
 ----------------
 
-Version 1.0
-Solar panels, release balancing.
+Version 1.1
+Fixed service module shroud.
 
 
 Install
